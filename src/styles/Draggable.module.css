@@ -1,0 +1,21 @@
+.draggable {
+     /* display: inline-block; */
+     border: 2px solid skyblue;
+     padding: 10px 20px;
+     flex: 0;
+     width: 100%;
+     cursor: grab;
+     margin-bottom: 5px;
+     
+}
+
+.ee{
+  background-color: rgb(224, 222, 222);
+}
+.ee:hover{
+  background-color: red;
+}
+.dragging {
+  background-color: #f3fafd;
+  cursor: grabbing;
+}

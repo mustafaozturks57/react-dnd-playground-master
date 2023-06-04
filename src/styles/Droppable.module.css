@@ -1,0 +1,36 @@
+.droppable {
+  border: 1px dotted  rgb(124, 124, 124);
+  text-align: center;
+  width: 100%;
+  height: 560% !important;
+  padding: 20px 0;
+}
+.droppablenav {
+  border: 1px dotted  rgb(228, 78, 78);
+  text-align: center;
+  
+  padding: 20px 0;
+}
+.droppablslider {
+  border: 1px dotted  rgb(228, 78, 78);
+  text-align: center;
+  
+  padding: 20px 0;
+}
+
+
+
+ 
+ 
+
+.over {
+  background-color: #ebffd4;
+}
+
+.can {
+  background-color: #f7ffee;
+}
+
+.big {
+  height: 70%;
+}
